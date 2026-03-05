@@ -56,7 +56,7 @@ Motivated and detail-oriented Full Stack .NET Developer with over 4 years of exp
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=burhanriaz&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=burhanriaz&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 </p>
 
 ---
@@ -64,7 +64,7 @@ Motivated and detail-oriented Full Stack .NET Developer with over 4 years of exp
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanriaz&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanriaz&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ Motivated and detail-oriented Full Stack .NET Developer with over 4 years of exp
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=burhanriaz&theme=radical" />
+<img src="https://github-profile-trophy.vercel.app/?username=burhanriaz&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 # 📫 Connect With Me
