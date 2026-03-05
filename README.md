@@ -15,7 +15,7 @@ Motivated and detail-oriented Full Stack .NET Developer with over 4 years of exp
 # 👨‍💻 About Me
 
 - 💻 .NET Developer with **4+ years of professional experience**
-- ⚙️ Experienced in **ASP.NET Core, MVC, Web APIs, Angular**
+- ⚙️ Experienced in **ASP.NET Core, MVC, Web APIs, Entity Framework (EF), Angular**
 - 🧠 Skilled in **SQL Server, PostgreSQL, MongoDB**
 - 🔐 Implemented **Azure AD B2C authentication systems**
 - 💳 Integrated **Stripe payment systems**
@@ -41,13 +41,13 @@ Motivated and detail-oriented Full Stack .NET Developer with over 4 years of exp
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mssql" />
 </p>
 
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,azure,github,docker,," />
 </p>
 
 ---
@@ -99,16 +99,16 @@ Motivated and detail-oriented Full Stack .NET Developer with over 4 years of exp
 
 # 📫 Connect With Me
 
-<p>
-<a href="https://linkedin.com/">
+<p align="left">
+<a href="https://www.linkedin.com/in/burhan-riaz/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:burhanriaz35@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/burhanriaz">
+<a href="https://github.com/burhanriaz" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
