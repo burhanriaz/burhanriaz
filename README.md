@@ -53,28 +53,6 @@ Motivated and detail-oriented Full Stack .NET Developer with over 4 years of exp
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=burhanriaz&show_icons=true&theme=radical" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=burhanriaz&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=burhanriaz&theme=radical&margin-w=15&margin-h=15" />
-</p>
-
 # 📫 Connect With Me
 
 <p>
