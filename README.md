@@ -48,31 +48,31 @@ Motivated and detail-oriented Full Stack .NET Developer with over 4 years of exp
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,azure,github,docker,," />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,azure,github,docker" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=burhanriaz&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=burhanriaz&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanriaz&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=burhanriaz&layout=compact&theme=radical" />
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=burhanriaz&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=burhanriaz&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
 # 📫 Connect With Me
