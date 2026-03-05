@@ -41,7 +41,8 @@ Motivated and detail-oriented Full Stack .NET Developer with over 4 years of exp
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,sql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ### Tools & Technologies
@@ -74,20 +75,21 @@ Motivated and detail-oriented Full Stack .NET Developer with over 4 years of exp
 <img src="https://github-profile-trophy.vercel.app/?username=burhanriaz&theme=radical" />
 </p>
 
-
 # 📫 Connect With Me
 
 <p>
 <a href="https://www.linkedin.com/in/burhan-riaz/">
-<img src="https://skillicons.dev/icons?i=linkedin" style="margin-right:10px;" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:burhanriaz35@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" style="margin-right:10px;" />
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://github.com/burhanriaz">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
 </a>
 </p>
 
