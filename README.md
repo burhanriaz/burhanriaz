@@ -6,11 +6,11 @@
     <img src="https://komarev.com/ghpvc/?username=burhanriaz&label=Profile%20views&color=0e75b6&style=flat" alt="burhanriaz" />
   </a>
 </p>
-### 👨‍💻 Professional Summary
-
-<sub>
+# 👨‍💻 Professional Summary
+<p style="font-size:14px">
 Motivated and detail-oriented Full Stack .NET Developer with over 4 years of experience designing and developing scalable web applications. Experienced in ASP.NET Core, MVC, Web APIs, Angular, and modern database systems including SQL Server, PostgreSQL, and MongoDB. Proven expertise in integrating third-party services such as Stripe and Azure AD B2C authentication. Passionate about writing clean, maintainable code, optimizing application performance, and continuously learning new technologies to build efficient and secure software solutions.
-</sub>
+
+</p>
 ---
 
 # 👨‍💻 About Me
