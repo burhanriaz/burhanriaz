@@ -41,7 +41,7 @@ Motivated and detail-oriented Full Stack .NET Developer with over 4 years of exp
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mssql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sql" />
 </p>
 
 ### Tools & Technologies
@@ -74,41 +74,19 @@ Motivated and detail-oriented Full Stack .NET Developer with over 4 years of exp
 <img src="https://github-profile-trophy.vercel.app/?username=burhanriaz&theme=radical" />
 </p>
 
----
-
-# 📂 Featured Projects
-
-### 🔹 Food Safety System
-- Subscription module using **Stripe**
-- Appliance scheduling feature
-- Real-time communication using **SignalR**
-
-### 🔹 Cohere
-- Developed **News Feed and Mail modules**
-- Backend APIs and system improvements
-
-### 🔹 Skalera
-- Document generation system
-- Capability statements & financial reports
-
-### 🔹 Hysabat ERP
-- ERP modules including **Sales, Purchase, HRM**
-- Built with **ASP.NET Core & GraphQL**
-
----
 
 # 📫 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/burhan-riaz/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<p>
+<a href="https://www.linkedin.com/in/burhan-riaz/">
+<img src="https://skillicons.dev/icons?i=linkedin" style="margin-right:10px;" />
 </a>
 
 <a href="mailto:burhanriaz35@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" style="margin-right:10px;" />
 </a>
 
-<a href="https://github.com/burhanriaz" target="_blank">
+<a href="https://github.com/burhanriaz">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
